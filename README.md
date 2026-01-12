@@ -163,9 +163,10 @@ countDivisors([1,2,8,9,12,46,76,82,15,20,30])
 // - All 11 numbers are divisible by 1
 // - 8 numbers are divisible by 2 (2,8,12,46,76,82,20,30)
 // - 4 numbers are divisible by 3 (9,12,15,30)
-// - 4 numbers are divisible by 4 (8,12,76,20)
+// - 4 numbers are divisible by 4 (8,12,76,20) [Note: 76÷4=19]
 // - 3 numbers are divisible by 5 (15,20,30)
 // - 2 numbers are divisible by 6 (12,30)
+// - 0 numbers divisible by 7 (not shown in output)
 // - 1 number is divisible by 8 (8)
 // - 1 number is divisible by 9 (9)
 ```
